@@ -1,1 +1,4 @@
 ProfitCalculatorExampleBenchmarks
+==================
+
+```./gradlew jmh```
